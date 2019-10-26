@@ -1,0 +1,7 @@
+name: general
+dependencies:
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - joblib
